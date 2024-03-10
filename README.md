@@ -1,18 +1,43 @@
 # fooTP
 
-**fooTP** is a caster adapter for TP standard containers.
+**fooTP** is minimal caster adapter for TP standard containers.
+
+<img src="img/footp.jpg" width="500"/>
+
+<img src="img/foot.jpg" width="500"/>
 
 ## What is TP standard?
 
 [TP(Toyota poly box)](http://www.toyota-lf.com/product/hokan_detail/d_plasticcontainer.html) is a standard of plastic containers for logistics designed by TOYOTA.
 
-## How to install
+<img src="img/tp.jpg" width="500"/>
 
-### Parts list
+## Parts list
 
-### Print
+| Name | size | pcs |
+|:-----|:-----|:---:|
+|fooTP body||1|
+|Caster|φ25mm, 28x23mm holes, free|1|
+|Screws|M4, 10mm|4|
+|Hexagon nuts|M4|4|
 
-### Build
+<img src="img/list.jpg" width="500"/>
+
+## Build
+
+<img src="img/build_1.jpg" width="500"/>
+
+<img src="img/build_2.jpg" width="500"/>
+
+<img src="img/build_3.jpg" width="500"/>
+
+That's it.
+
+## 3D Printing
+
+- It is recommended to print with PETG filament.
+- It doesn't need any support materials.
+- [Fuzzy skin](https://help.prusa3d.com/article/fuzzy-skin_246186) is useful to make it tight to attach.
 
 ## Leading manufacturers of TP containers
 
